@@ -2,6 +2,7 @@ import cv2
 import mediapipe as mp
 import ctypes
 import pyautogui
+#importing neccessary libraries
 
 
 class handDetector():
