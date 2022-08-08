@@ -1,3 +1,4 @@
+![Alt Text](https://github.com/Rahulmalik126/Hand-Gesture-Controlled-2D-Maze-Game/blob/main/Screenshot%202021-11-23%20033835.png)
 # Hand Gesture Controlled 2D Maze Game
  Machine Learning and Unity Software based Game || Mediapipe </br>
 > Used Image-processing algorithms for object detection </br>
